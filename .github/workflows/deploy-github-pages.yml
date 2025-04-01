@@ -1,4 +1,4 @@
-# 将静态内容部署到 GitHub Pages 的简易工作流程
+# update 将静态内容部署到 GitHub Pages 的简易工作流程
 name: Deploy Github Pages
 
 on:
